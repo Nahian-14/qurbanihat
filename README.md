@@ -3,7 +3,7 @@
 A modern livestock marketplace where users can explore animals for Qurbani and place bookings after authentication.
 
 ## 🌐 Live URL
-> https://qurbanihat.vercel.app
+https://qurbanihat-two.vercel.app/
 
 ## ✨ Key Features
 - Browse 8+ verified Qurbani animals (cows & goats)
